@@ -50,12 +50,3 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
   <img src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" title="Librosa" alt="Librosa" width="40" height="40"/>
 </div>
-
-
-
----
-
-### Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reach2sudharsan&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reach2sudharsan)](https://github.com/anuraghazra/github-readme-stats)

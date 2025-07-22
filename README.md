@@ -7,10 +7,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/your-github-username"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=your-github-username"></a>
-</p>
-
 ---
 
 - 🎓 I'm a junior at **Harvey Mudd College**, majoring in **Computer Science**, with a concentration in **AI & Electrical Engineering**

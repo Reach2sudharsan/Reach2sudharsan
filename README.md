@@ -9,7 +9,7 @@
 
 ---
 
-- 🎓 I'm a junior at **Harvey Mudd College**, majoring in **Computer Science**, with a focus on **AI & Electrical Engineering**
+- 🎓 I'm a junior at **Harvey Mudd College**, majoring in **Computer Science**, with a focus on **AI & Computer Engineering**
 - ⚡ I love tackling real-world problems with **clean, elegant code**
 - 🔍 I'm currently diving into **deep learning**, **computer vision**, and **foundation models**, with a focus on building robust, scalable AI systems.
 ## 🛠 &nbsp;Tech Stack

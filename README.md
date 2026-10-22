@@ -44,7 +44,6 @@
 ![Depth Anything](https://img.shields.io/badge/Depth%20Anything-%2300599C.svg?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-%2300FFFF.svg?style=for-the-badge&logoColor=black)
 ![CLIPSeg](https://img.shields.io/badge/CLIPSeg-%23412991.svg?style=for-the-badge)
-![SAM](https://img.shields.io/badge/SAM-%2300599C.svg?style=for-the-badge)
 ![NeRF](https://img.shields.io/badge/NeRF-%23FF6F00.svg?style=for-the-badge)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning%20%28PPO%29-%237B2CBF.svg?style=for-the-badge)
 ![GANs](https://img.shields.io/badge/GANs-%23E20000.svg?style=for-the-badge)
